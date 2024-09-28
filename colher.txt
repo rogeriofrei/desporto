@@ -1,0 +1,310 @@
+
+#EXTM3U
+ #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="|.PT.S.| SPORTING TV" tvg-logo="http://one-iptv.com/imageslogo/SportingTV.pt.png" group-title="PORTUGAL",|.PT.S.| SPORTING TV
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58875.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.O| BENFICA TV" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",|.PT.S.O| BENFICA TV
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58876.ts
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="|.PT.S.O| SPORT TV+" tvg-logo="http://one-iptv.com/imageslogo/SportTVPlus.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV+
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58878.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.O| SPORT TV 1" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 1
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58879.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.O| SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 1 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/31368.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="|.PT.S.| SPORT TV 2" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 2
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58881.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="|.PT.S.| SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 2 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58880.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="|.PT.S.O| SPORT TV 3" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 3
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58883.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="|.PT.S.| SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 3 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58882.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="|.PT.S.| SPORT TV 4" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 4
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58885.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="|.PT.S.O| SPORT TV 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 4 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58884.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="|.PT.S.O| SPORT TV 5" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 5
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58887.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="|.PT.S.| SPORT TV 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 5 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58886.ts
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="|.PT.S.O| ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="PORTUGAL",|.PT.S.O| ELEVEN SPORTS 1 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58888.ts
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="|.PT.S.O| ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="PORTUGAL",|.PT.S.O| ELEVEN SPORTS 2 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58889.ts
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="|.PT.S.O| ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png" group-title="PORTUGAL",|.PT.S.O| ELEVEN SPORTS 3 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58890.ts
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="|.PT.S.O| ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.O| ELEVEN SPORTS 4 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58891.ts
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="|.PT.S.O| ELEVEN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.O| ELEVEN SPORTS 5 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58892.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.| ELEVEN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 6 HD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/58893.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.| BENFICA TV FHD" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",|.PT.| BENFICA TV FHD
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/95819.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="PORTUGAL FHD HEVC",|PT| ELEVEN SPORTS 1 HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139929.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HEVC" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png" group-title="PORTUGAL FHD HEVC",|PT| ELEVEN SPORTS 2 HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139930.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HEVC" tvg-logo="https://cdn.uc.assets.prezly.com/7c02a60a-9d12-4771-bd0b-87760d1a6255/-/preview/600x600/-/quality/best/-/format/auto/" group-title="PORTUGAL FHD HEVC",|PT| ELEVEN SPORTS 3 HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139931.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 HEVC" tvg-logo="data:image/png;base64,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" group-title="PORTUGAL FHD HEVC",|PT| ELEVEN SPORTS 4 HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139932.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="PORTUGAL FHD HEVC",|PT| ELEVEN SPORTS 5 HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139933.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HEVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="PORTUGAL FHD HEVC",|PT| ELEVEN SPORTS 6 HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139934.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="PORTUGAL FHD HEVC",|PT| EUROSPORT 1 HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139935.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 2 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="PORTUGAL FHD HEVC",|PT| EUROSPORT 2 HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139936.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BENFICA TV HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PORTUGAL FHD HEVC",|PT| BENFICA TV HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139937.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+http://887432710601339545.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/339545.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 HD
+http://887432710601416381.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://887432710601623298.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/623298.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 HD
+http://887432710601744516.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/744516.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
+http://887432710601746355.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/746355.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
+http://887432710601755739.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/755739.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://887432710601798248.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/798248.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 SD
+http://887432710601802465.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/802465.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6ᶠᴴᴰ HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6ᶠᴴᴰ HD
+http://887432710601817728.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/817728.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
+http://887432710601821804.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/821804.ts
+#EXTINF:-1 tvg-id="Eleven 1 (35).pt" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
+http://887432710601845747.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/845747.ts
+#EXTINF:-1 tvg-id="Eleven 3 (37).pt" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
+http://887432710601845748.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/845748.ts
+#EXTINF:-1 tvg-id="Eleven 4 (38).pt" tvg-name="PT: ELEVEN 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 HD
+http://887432710601845749.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/845749.ts
+#EXTINF:-1 tvg-id="Eleven 5 (39).pt" tvg-name="PT: ELEVEN 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 SD
+http://887432710601845750.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/845750.ts
+#EXTINF:-1 tvg-id="Eleven 6 (40).pt" tvg-name="PT: ELEVEN 6 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 SD
+http://887432710601845751.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/845751.ts
+#EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="PT: BTV HD" tvg-logo="" group-title="Portugal",PT: BTV HD
+http://887432710601851883.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/851883.ts
+#EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
+http://887432710601868629.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/868629.ts
+#EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="PT: BENFICA FHD" tvg-logo="http://tudoaqui.xyz/LOGOS/picons/Benfica_TV_1.png" group-title="Portugal",PT: BENFICA FHD
+http://887432710601869253.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/869253.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 HD
+http://887432710601874009.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/874009.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC FHD
+http://887432710601894661.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/894661.ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 SD
+http://887432710601896774.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/896774.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORTV 1 HD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 HD
+http://887432710601897839.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/897839.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://887432710601898453.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/898453.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ SD
+http://887432710601903284.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/903284.ts
+#EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="PT: BENFICA TV HEVC" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV HEVC
+http://887432710601908074.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/908074.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 1 FHD
+http://887432710601922629.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/922629.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 2 HEVC
+http://887432710601922630.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/922630.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 5 HD
+http://887432710601922632.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/922632.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 6 SD
+http://887432710601922633.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/922633.ts
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1FHD.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
+http://vo01.mohdtv.com:8880/voby3666/69222721/3239
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT012:Benfica TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV1HD.png" group-title="PT Sports",PT012:Benfica TV 1 HD
+http://vo01.mohdtv.com:8880/voby3666/69222721/3238
+#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT013:Benfica TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV1SD.png" group-title="PT Sports",PT013:Benfica TV 1 SD
+http://vo01.mohdtv.com:8880/voby3666/69222721/3237
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT058:Sport TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT058SportTV1.png" group-title="PT Sports",PT058:Sport TV 1 HD
+http://vo01.mohdtv.com:8880/voby3666/69222721/3192
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT059:Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png" group-title="PT Sports",PT059:Sport TV 2 HD
+http://vo01.mohdtv.com:8880/voby3666/69222721/3191
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT060:Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png" group-title="PT Sports",PT060:Sport TV 3 HD
+http://vo01.mohdtv.com:8880/voby3666/69222721/3190
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT061:Sport TV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png" group-title="PT Sports",PT061:Sport TV 4 HD
+http://vo01.mohdtv.com:8880/voby3666/69222721/3189
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT062:Sport TV 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT062SportTV5.png" group-title="PT Sports",PT062:Sport TV 5 HD
+http://vo01.mohdtv.com:8880/voby3666/69222721/3188
+#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="PT063:SPORT TV+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png" group-title="PT Sports",PT063:SPORT TV+
+http://vo01.mohdtv.com:8880/voby3666/69222721/3187
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT098:SPORT TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png" group-title="PT Sports",PT098:SPORT TV 1 FHD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29392
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT099:SPORT TV 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png" group-title="PT Sports",PT099:SPORT TV 2 FHD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29391
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT100:SPORT TV 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png" group-title="PT Sports",PT100:SPORT TV 3 FHD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29390
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT101:SPORT TV 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png" group-title="PT Sports",PT101:SPORT TV 4 FHD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29389
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT119:Eleven Sports 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT119:Eleven Sports 3 FHD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29371
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT120:Eleven Sports 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT120:Eleven Sports 4 FHD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29370
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:Eleven Sports 5 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT121:Eleven Sports 5 SD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29369
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT122:Eleven Sports 6 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/" group-title="PT Sports",PT122:Eleven Sports 6 FHD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29368
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT134:Eleven Sports 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT134:Eleven Sports 2 SD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29356
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT145:Eleven Sports 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT145:Eleven Sports 3 SD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29345
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT146:Eleven Sports 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT146:Eleven Sports 4 SD
+http://vo01.mohdtv.com:8880/voby3666/69222721/29344
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
